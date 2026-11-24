@@ -1,5 +1,7 @@
 # NSInduct
 
+[![DOI](https://zenodo.org/badge/1470821954.svg)](https://doi.org/10.5281/zenodo.24515025)
+
 NSInduct studies magnetic winding, Maxwell-stress feedback and dissipation in an axisymmetric spherical shell. A prescribed, confined poloidal field winds under differential rotation. The evolving toroidal field exerts a Maxwell torque on the flow. The model assumes constant density and includes toroidal magnetic diffusion and optional viscosity.
 
 A conservative finite-difference solver uses classical RK4. An independent Dedalus v3 solver uses a spherical shell basis, toroidal vectors and RK443. The [model and benchmarks](SCIENCE.md) give the equations, boundary conditions and comparisons.
