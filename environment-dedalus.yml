@@ -1,0 +1,22 @@
+name: nsinduct-dedalus
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - dedalus=3.0.5
+  - numpy=2.5.1
+  - scipy=1.18.0
+  - h5py=3.16.0
+  - mpi4py=4.1.2
+  - openmpi=5.0.10
+  - fftw=3.3.11
+  - pyyaml
+  - matplotlib-base
+  - pytest
+  - nbformat
+  - nbclient
+  - jupyter_client
+  - ipykernel
+  - setuptools>=77
+  - wheel
+  - pip

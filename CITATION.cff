@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, cite the version you used."
+type: software
+title: "NSInduct: Torsional magnetic winding and braking in a spherical shell"
+version: 0.2.0
+repository-code: "https://github.com/dlysenko05/NSInduct"
+authors:
+  - family-names: Lysenko
+    given-names: Daniil
+license: BSD-3-Clause
+abstract: "Finite-difference and Dedalus simulations of magnetic winding, Maxwell-stress feedback and torsional dissipation in an axisymmetric spherical shell with a prescribed poloidal field."
+keywords:
+  - magnetic winding
+  - magnetic braking
+  - magnetohydrodynamics
+  - Dedalus
